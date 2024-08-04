@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DNS_IN2011" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DNS_IN2011/DNS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DNS_IN2011/DNS/commit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commit" vcs="Git" />
   </component>
 </project>
